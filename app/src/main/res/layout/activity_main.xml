@@ -1,16 +1,43 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent" android:padding="24dp">
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
 
-    <RadioGroup android:id="@+id/modeGroup" android:layout_width="match_parent"
+    <RadioGroup
+        android:id="@+id/modeGroup"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        <RadioButton android:id="@+id/radioUltra" android:text="Ultra Saving"/>
-        <RadioButton android:id="@+id/radioBalanced" android:text="Balanced"/>
-        <RadioButton android:id="@+id/radioPerf" android:text="Performance"/>
-        <RadioButton android:id="@+id/radioBattery" android:text="Battery Saver"/>
+
+        <RadioButton
+            android:id="@+id/radioUltra"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ultra Saving" />
+
+        <RadioButton
+            android:id="@+id/radioBalanced"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Balanced" />
+
+        <RadioButton
+            android:id="@+id/radioPerf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Performance" />
+
+        <RadioButton
+            android:id="@+id/radioBattery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Battery Saver" />
     </RadioGroup>
 
-    <Switch android:id="@+id/langSwitch"
+    <Switch
+        android:id="@+id/langSwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Gunakan Bahasa Indonesia"
         android:layout_marginTop="16dp" />
 
