@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.luminaredenero.optimax.app-mergeDebugResources-27:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/root/A37-Optimax-APK/app/src/main/res/values-id/strings.xml",
+                    "from": {
+                        "startLines": "1,3,5,4,2",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "16,116,221,167,65",
+                        "endColumns": "48,50,53,53,50",
+                        "endOffsets": "60,162,270,216,111"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,155,209,263",
+                        "endColumns": "48,50,53,53,50",
+                        "endOffsets": "99,150,204,258,309"
+                    }
+                }
+            ]
+        }
+    ]
+}

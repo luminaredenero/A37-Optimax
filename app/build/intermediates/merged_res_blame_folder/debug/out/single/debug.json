@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.luminaredenero.optimax.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.luminaredenero.optimax.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.luminaredenero.optimax.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.luminaredenero.optimax.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

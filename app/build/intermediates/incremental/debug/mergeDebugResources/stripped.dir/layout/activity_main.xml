@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:padding="24dp">
+
+    <RadioGroup android:id="@+id/modeGroup" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/radioUltra" android:text="Ultra Saving"/>
+        <RadioButton android:id="@+id/radioBalanced" android:text="Balanced"/>
+        <RadioButton android:id="@+id/radioPerf" android:text="Performance"/>
+        <RadioButton android:id="@+id/radioBattery" android:text="Battery Saver"/>
+    </RadioGroup>
+
+    <Switch android:id="@+id/langSwitch"
+        android:text="Gunakan Bahasa Indonesia"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

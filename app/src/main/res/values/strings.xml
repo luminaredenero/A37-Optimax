@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A37 Optimax</string>
+    <string name="ultra">Ultra Battery Saving</string>
+    <string name="balanced">Balanced Mode</string>
+    <string name="performance">Performance Mode</string>
+    <string name="battery">Battery Saver</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A37 Optimax</string>
+    <string name="ultra">Hemat Daya Ultra</string>
+    <string name="balanced">Mode Seimbang</string>
+    <string name="performance">Mode Performa</string>
+    <string name="battery">Penghemat Baterai</string>
+</resources>
